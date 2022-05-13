@@ -1,4 +1,7 @@
 # Task-List
 
-Simple CRUD Task List
-Markup : - [x] Using DOM - [x] Using Local Storage - [x] Filter Tasks
+Simple CRUD Task List :
+
+- [x] Using DOM
+- [x] Using Local Storage,
+- [x] Filter Tasks
